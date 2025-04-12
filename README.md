@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reemasfour
 - 👀 I’m interested in Data Analysis and Machine Learning
-- 🌱 I’m currently learning Python, Excel, Power Bi, data cleansing, and some other tools
+- 🌱 I’m currently learning Python, Excel, Power Bi, and some other tools
 
 
 
